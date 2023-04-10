@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_defender/Scenes/TitleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/_defender/Scenes/Main.unity
+    guid: 6681774af1ab0de4a9250fc27b9de929
+  - enabled: 1
+    path: Assets/_defender/Scenes/Level1.unity
+    guid: 5db4f55df436b4d49a8f66032117a602
+  - enabled: 1
+    path: Assets/_defender/Scenes/Level2.unity
+    guid: dbd9db177cdb082438e4c95b862dc18e
+  - enabled: 1
+    path: Assets/_defender/Scenes/TestScenes/PlayerShipTests.unity
+    guid: 97023753a056f874d925b866d15cd94c
+  - enabled: 1
+    path: Assets/_defender/Scenes/TestScenes/MobTests.unity
+    guid: 3895d36862d17b54394b299391ee039a
+  - enabled: 1
+    path: Assets/_defender/Scenes/Kapanis.unity
+    guid: 0f6a6b98ae94dd24f8fa7d8fc1aab43d
+  m_configObjects: {}
